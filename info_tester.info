@@ -1,0 +1,16 @@
+name = Info Tester module.
+description = Test module to test info file data on BackdropCMS.org
+backdrop = 1.x
+type = module
+
+; Modules can have tags, maintainers, and screenshots.
+
+; Should we have a allowed/recommended list of tags?
+tags[] = Testing
+tags[] = Development
+
+; Should maintainers start with an @??
+; Should we use the github username or the BackdropCMS username??
+maintainers[] = docwilmot
+maintainers[] = bugfolder
+
